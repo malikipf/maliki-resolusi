@@ -1,0 +1,6 @@
+Maliki Resolusi (tujuan resolusi ini adalah untuk memposting perkembangan belajar pemograman Maliki ) :
+- Mempelajari basic pemograman yaitu HTML
+- Mempelajari basic css
+- mempelajari framework css (bootstrap)
+- mempelajari framework css (materialize)
+- 
